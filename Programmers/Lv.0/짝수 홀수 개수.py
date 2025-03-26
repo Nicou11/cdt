@@ -1,3 +1,6 @@
+num_list = [1, 2, 3, 4, 5]	#[2, 3]
+#num_list = [1, 3, 5, 7]	#[0, 4]
+
 def solution(num_list):
     e = 0
     o = 0
